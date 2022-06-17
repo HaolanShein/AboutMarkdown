@@ -1,6 +1,8 @@
 # AboutMarkdown
 Markdown常用公式（GitHub编辑公式）
 
+摘抄自：http://t.csdn.cn/iEjbB
+
 # <center>Markdown 常用公式编辑</center>
 每次编辑公式用word，然后截图迁移非常不方便，乘此学习下Markdown编辑器中用Latex语法来编辑公式提高效率。
 # 1.  基本用法
