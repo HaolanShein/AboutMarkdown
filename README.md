@@ -153,9 +153,9 @@ a_3x+b_3y+c_3z=d_3\\
 \end{cases}
 $$
 
-## 1.11 后续
-后续将更新一些机器学习领域内常用的公式在此，以便查阅和Just use it!
+## 1.11 添加图片
 
+![avatar](/Entropy/ActivationFunction.png)
 
 
 
